@@ -1,0 +1,3 @@
+ID,Name,Nickname,Age,Weight Class (lbs),Stance,Height (cm),Reach (cm),Wins,Losses,Draws,No Contests,Average Fight Time (mm:ss),Strikes Landed per Minute,Striking Accuracy (%),Strikes Absorbed per Minute,Striking Defense (%),Takedowns Average per 15 min,Takedown Accuracy (%),Takedown Defense (%),Submission Average per 15 min,Wins by KO/TKO,Wins by Submission,Wins by Decision
+1,Mateusz Gamrot,Gamer,34,155,Southpaw,178,178,24,3,0,1,12:18,3.23,50,3.22,58,5.25,35,90,0.1,3,1,20
+2,Ludovit Klein,Mr. Highlight,30,155,Southpaw,170,183,23,4,1,0,12:19,3.81,54,3.22,54,1.7,51,91,0,2,0,21
